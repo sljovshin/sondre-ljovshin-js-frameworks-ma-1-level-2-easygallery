@@ -55,8 +55,8 @@ image_width: {
 ```
 const options = {
     gap: {
-    size: 10,       
-    shadow: true,   
+    	size: 10,       
+   	shadow: true,   
     },
     image_width: {
         min: 10,      
